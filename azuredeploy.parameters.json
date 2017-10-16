@@ -27,10 +27,10 @@
 			"value": "changeme"
 		},
 		"masterInstanceCount": {
-			"value": 3
+			"value": 1
 		},
 		"infraInstanceCount": {
-			"value": 2
+			"value": 1
 		},
 		"nodeInstanceCount": {
 			"value": 1
